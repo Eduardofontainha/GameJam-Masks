@@ -25,5 +25,6 @@ Mouse / Enter – Attack
 <img src="./assets github/Start game.png"  width = "300px" height ="200px">
 <img src="./assets github/Boss.png" width = "300px"  height ="200px">
 <img src="./assets github/Room boss.png" width = "300px"  height ="200px">
-</p>
 <img src="./assets github/Room End.png"  >
+</p>
+
